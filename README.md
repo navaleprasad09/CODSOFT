@@ -6,7 +6,7 @@
 
 **Landing Page**
 
-- [Task 1]()
+- [Task 1](https://github.com/navaleprasad09/CODSOFT/tree/main/Landing%20Page)
 
 **Portfolio**
 - [Task 2]()
