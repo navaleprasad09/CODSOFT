@@ -12,7 +12,7 @@
 - [Task 2](https://github.com/navaleprasad09/CODSOFT/tree/main/Portfolio)
 
 **Calculator**
-- [Task 3]()
+- [Task 3](https://github.com/navaleprasad09/CODSOFT/tree/main/Calculator)
 
 ---
 
