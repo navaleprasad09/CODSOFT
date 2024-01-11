@@ -9,7 +9,7 @@
 - [Task 1](https://github.com/navaleprasad09/CODSOFT/tree/main/Landing%20Page)
 
 **Portfolio**
-- [Task 2]()
+- [Task 2](https://github.com/navaleprasad09/CODSOFT/tree/main/Portfolio)
 
 **Calculator**
 - [Task 3]()
